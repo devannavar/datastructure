@@ -1,7 +1,7 @@
 package com.binarytreeexmaple.binaryTree;
 import java.util.*;
 
-import node.BinaryNode;
+import com.binarytreeexmaple.node.BinaryNode;
 
 public class BinaryTreeByLinkedList {
 	BinaryNode root;
